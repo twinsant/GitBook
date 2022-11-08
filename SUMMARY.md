@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Python基础教程](README.md)

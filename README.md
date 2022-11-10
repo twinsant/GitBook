@@ -22,5 +22,7 @@ description: 写给菜鸟的，互联网上最简洁的Python编程入门，通�
 
 好了，话不多说，让我们出发吧！
 
-* [https://app.gitbook.com/c/fXxFe8JE9IjRiUU3baLf](https://app.gitbook.com/c/fXxFe8JE9IjRiUU3baLf)
+{% content-ref url="https://app.gitbook.com/s/zFaa4KHjTxY4RdS4enJb/" %}
+[python.twinsant.com](https://app.gitbook.com/s/zFaa4KHjTxY4RdS4enJb/)
+{% endcontent-ref %}
 

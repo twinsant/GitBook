@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Python游乐场](README.md)
+* [Python基础教程](README.md)

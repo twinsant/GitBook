@@ -14,6 +14,6 @@ description: 做最好用的Python在线试验场
 后续内容假定你试用Chrome浏览器
 {% endhint %}
 
-使用蚂蚁编写的Python在线游乐场就可以享受Python创始人说的快乐的编程学习感觉了，还等什么，赶紧点击下面的链接吧！
+使用蚂蚁编写的Python在线游乐场就可以享受Python创始人说的快乐的学习编程感觉了，还等什么，赶紧点击下面的链接吧！
 
 {% embed url="https://python.twinsant.com" %}

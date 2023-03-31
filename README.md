@@ -6,7 +6,7 @@ description: 做最好用的Python在线试验场
 
 蚂蚁儿子9岁时（2016年），荣幸地获得了Python创始人的邮件鼓励
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 很多Python教程和书籍的第一章都是冗长的Python下载和安装教程，可是这都3202年了，怎么还用这么古老的方式？
 
@@ -17,3 +17,5 @@ description: 做最好用的Python在线试验场
 使用蚂蚁编写的Python在线游乐场就可以享受Python创始人说的快乐的学习编程感觉了，还等什么，赶紧点击下面的链接吧！
 
 {% embed url="https://python.twinsant.com" %}
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

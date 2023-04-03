@@ -1,5 +1,5 @@
 ---
-description: 做最好用的Python在线Python IDE，提供最简洁的课程与练习
+description: 做最好用的在线Python IDE，提供最简洁的课程与练习
 ---
 
 # 000. 在线Python游乐场

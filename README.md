@@ -6,7 +6,7 @@ description: 做最好用的在线Python IDE，提供最简洁的课程与练习
 
 蚂蚁儿子9岁时（2016年）开始学Python，并荣幸地获得了Python创始人的邮件鼓励😊
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 很多Python教程和书籍的第一章都是冗长的Python下载和安装教程，可是这都3202年了，怎么还用这么古老的方式？
 
@@ -27,5 +27,5 @@ description: 做最好用的在线Python IDE，提供最简洁的课程与练习
 在线编辑环境第一次加载需要比较长的时间，请耐心等待，目前使用的Pythong解释器版本为3.10
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 

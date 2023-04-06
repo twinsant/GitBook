@@ -2,3 +2,4 @@
 
 * [000. 在线Python游乐场](README.md)
 * [001. Hello World](001.-hello-world.md)
+* [【互动中】def，定义你自己的函数](hu-dong-zhong-def-ding-yi-ni-zi-ji-de-han-shu.md)

@@ -24,3 +24,32 @@ print('打开购票网站')
 
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
+## 并且
+
+上面的复习我们只使用了一个条件，但如果没有父母的支持，恐怕小A同学的上海之行只能是美好的希望
+
+在Python里我们如何实现并且这种条件呢？
+
+```python
+tickets_avialable = True
+parent_approved = True
+
+if tickets_avialabe and parent_approved:
+    print('有票并且父母支持')
+```
+
+and在英文里是并且的意思，它是一个逻辑操作符，只有在左右条件都成立的情况下才返回True
+
+{% hint style="info" %}
+问题：用Python打印 True and True，True and False，False and True，False and False看看都是什么结果
+
+回答：<截图发送在微信群>
+{% endhint %}
+
+课堂练习
+
+{% hint style="info" %}
+问题：小A同学没有考虑同学是否一起有时间去，那么请帮助他增加这个条件，只有在<mark style="color:orange;">**有票并且同学有时间去并且父母们都同意**</mark>的情况下，才能开始快乐之旅
+
+回答：<编写程序截图发送在微信群>
+{% endhint %}

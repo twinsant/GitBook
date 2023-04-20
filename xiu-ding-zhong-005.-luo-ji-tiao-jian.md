@@ -53,3 +53,22 @@ and在英文里是并且的意思，它是一个逻辑操作符，只有在左�
 
 回答：<编写程序截图发送在微信群>
 {% endhint %}
+
+### 作业批注
+
+最简单的写法其实是这样
+
+```python
+def tour(tickets_avialable, classmates_avialable, parents_approved):
+    if tickets_avialable and classmates_avialable and parents_approved:
+        print('集齐3颗龙珠，愿望达成！')
+        
+# 有票，同学有时间，父母们同意
+print('理想情况：')
+tour(True, True, True)
+
+# 没票， 同学有时间，父母们同意
+print('看运气：')
+tour(False, True, True)
+```
+

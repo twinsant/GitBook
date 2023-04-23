@@ -165,9 +165,12 @@ if met_seller(True, '西瓜'):
 条件1 or 条件2 or 条件3
 ```
 
+如果多个条件中有一个满足，整个条件表达式为真
+
 那么如果我们把同学是否能去写成一个函数
 
 ```python
+# 程序005.02
 def classmates_avialable(classmate_b, classmate_c, classmate_d):
     return classmate_b or classmate_c or classmate_d
     
@@ -179,3 +182,11 @@ if classmates_avialable(True, True, True):
 if classmates_avialable(False, True, True):
     print('即使有人不能去')
 ```
+
+我们就很方便地实现了有1个同学去就可以去的条件
+
+{% hint style="info" %}
+问题：修改程序005.02，使得有2个同学可以去时才能够满足条件
+
+回答：<在微信群截图发送作业>
+{% endhint %}

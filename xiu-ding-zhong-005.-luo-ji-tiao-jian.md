@@ -24,7 +24,7 @@ print('打开购票网站')
 
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-## 并且
+## 并且and
 
 上面的复习我们只使用了一个条件，但如果没有父母的支持，恐怕小A同学的上海之行只能是美好的希望
 
@@ -156,3 +156,25 @@ if met_seller(True, '西瓜'):
 
 回答：<使用自己的编辑器或 python.twinsant.com完成作业并截图>
 {% endhint %}
+
+## 或者or
+
+上面我们讲了Python的and，那么如果我们把同学是否能去写成一个函数
+
+<pre class="language-python"><code class="lang-python">def classmates_avialable(classmate_b, classmate_c, classmate_d):
+    return classmate_b or classmate_c or classmate_d
+    
+# 同学B, C, D都可以去
+<strong>if classmates_avialable(True, True, True):
+</strong>    print('有一个同学可以去就可以去)
+
+# 同学B无法去, C, D可以去
+def classmates_avialable(classmate_b, classmate_c, classmate_d):
+    return classmate_b or classmate_c or classmate_d
+    
+# 同学B, C, D都可以去
+if classmates_avialable(True, True, True):
+    print('有一个同学可以去就可以去)
+
+# 同学B无法去, C, D可以去
+</code></pre>

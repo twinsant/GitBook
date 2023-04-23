@@ -159,22 +159,23 @@ if met_seller(True, '西瓜'):
 
 ## 或者or
 
-上面我们讲了Python的and，那么如果我们把同学是否能去写成一个函数
+上面我们讲了Python的and，它表示并且的关系，在Python中或者的关系用or来表示
 
-<pre class="language-python"><code class="lang-python">def classmates_avialable(classmate_b, classmate_c, classmate_d):
-    return classmate_b or classmate_c or classmate_d
-    
-# 同学B, C, D都可以去
-<strong>if classmates_avialable(True, True, True):
-</strong>    print('有一个同学可以去就可以去)
+```python
+条件1 or 条件2 or 条件3
+```
 
-# 同学B无法去, C, D可以去
+那么如果我们把同学是否能去写成一个函数
+
+```python
 def classmates_avialable(classmate_b, classmate_c, classmate_d):
     return classmate_b or classmate_c or classmate_d
     
 # 同学B, C, D都可以去
 if classmates_avialable(True, True, True):
-    print('有一个同学可以去就可以去)
+    print('有一个同学可以去就可以去')
 
 # 同学B无法去, C, D可以去
-</code></pre>
+if classmates_avialable(False, True, True):
+    print('即使有人不能去')
+```

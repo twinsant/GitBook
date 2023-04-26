@@ -59,6 +59,7 @@ and在英文里是并且的意思，它是一个逻辑操作符，只有在左�
 最简单的写法其实是这样
 
 ```python
+# 程序 005.00
 def tour(tickets_avialable, classmates_avialable, parents_approved):
     if tickets_avialable and classmates_avialable and parents_approved:
         print('集齐3颗龙珠，愿望达成！')
@@ -189,4 +190,25 @@ if classmates_avialable(False, True, True):
 问题：修改程序005.02，使得有2个同学可以去时才能够满足条件
 
 回答：<在微信群截图发送作业>
+{% endhint %}
+
+## 绝不能 not
+
+小A同学有点因为演唱会魂不守舍了，他的父母担心会影响他的期中考试，就使出家长们常用的杀手锏：如果其中考试没考好，演唱会想都别想
+
+这就需要介绍逻辑条件的新成员 not
+
+```python
+not 条件
+
+not True # 变成了False
+not False # 变成了True
+```
+
+课堂练习来了
+
+{% hint style="info" %}
+问题：修改程序 005.00增加考试没考好的条件 exam\_passed，使用not来实现父母的杀手锏
+
+回答：微信群截图交作业
 {% endhint %}

@@ -6,3 +6,4 @@
 * [003.缩进和循环](003.-suo-jin-he-xun-huan.md)
 * [004.条件语句](004.-tiao-jian-yu-ju-xiu-ding-zhong.md)
 * [005.逻辑条件](xiu-ding-zhong-005.-luo-ji-tiao-jian.md)
+* [006.while循环](006.while-xun-huan.md)

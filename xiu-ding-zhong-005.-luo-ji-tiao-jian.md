@@ -100,7 +100,7 @@ tour(True, True, False)
 
 把不同的条件打印一下：
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>情况</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (3).png" alt=""><figcaption><p>情况</p></figcaption></figure>
 
 第三种情况其实是去不了的，那么，到底为什么会出bug呢？
 

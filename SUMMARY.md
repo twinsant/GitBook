@@ -7,4 +7,5 @@
 * [004.条件语句](004.-tiao-jian-yu-ju-xiu-ding-zhong.md)
 * [005.逻辑条件](xiu-ding-zhong-005.-luo-ji-tiao-jian.md)
 * [006.while循环](006.while-xun-huan.md)
-* [007.列表list【修订中】](007.-lie-biao-list-xiu-ding-zhong.md)
+* [007.列表list](007.-lie-biao-list.md)
+* [008.字典Dictionary【修订中】](008.-zi-dian-dictionary-xiu-ding-zhong.md)
